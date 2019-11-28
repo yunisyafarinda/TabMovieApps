@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="width_thumb_movie_list">100dp</dimen>
+    <dimen name="height_thumb_movie_list">150dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="padding_thumb_movie_list">26dp</dimen>
+    <dimen name="padding_subtitle_movie_list">10dp</dimen>
+    <dimen name="list_title_size">18sp</dimen>
+    <dimen name="padding_all">16dp</dimen>
+</resources>
